@@ -69,8 +69,17 @@
   position: relative;
 }
 
+.featured-list--item__heading--no-border {
+  border-top: 0;
+  padding-top: 0;
+}
+
 @include mq($from: tablet) {
   .featured-list--item__heading {
     padding-top: nhsuk-spacing(5);
+  }
+
+  .featured-list--item__heading--no-border {
+    padding-top: 0;
   }
 }
