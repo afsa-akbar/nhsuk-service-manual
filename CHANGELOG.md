@@ -5,6 +5,7 @@
 :new: **New content**
 
 - Add recent Radio 4 interview to content style guide
+- Add feedback survey to help improve the service manual
 
 :wrench: **Fixes**
 
